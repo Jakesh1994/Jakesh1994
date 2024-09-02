@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jacob shead
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in developing codeing skills 
+- 🌱 I’m currently learning advanced techniques in code
 - 💞️ I’m looking to collaborate on future projects
 - 📫 You can reach me at jacobshead1994@gmail.com or phone 620-240-0581
 - 😄 Pronouns:he
